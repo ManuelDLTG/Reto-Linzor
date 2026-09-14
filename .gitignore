@@ -1,0 +1,8 @@
+# Archivos temporales / de sistema
+.DS_Store
+*.tmp
+~$*
+
+# Excel: no ignorar los .xlsx de trabajo (son el deliverable de screening),
+# pero sí archivos de backup/autoguardado que Excel genera
+~$*.xlsx
