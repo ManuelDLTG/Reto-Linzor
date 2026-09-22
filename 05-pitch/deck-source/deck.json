@@ -1,0 +1,16 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-09-21T00:00:00Z"},
+  "title": "Reto Linzor — Satrack S.A.S.",
+  "order": ["empresa", "tesis", "riesgos"],
+  "sections": {
+    "s1": {"description": "La empresa, sus cifras clave y el mercado fragmentado en el que compite", "start": "empresa"},
+    "s2": {"description": "La tesis de inversión, el encaje con Linzor y los retornos esperados", "start": "tesis"},
+    "s3": {"description": "Riesgos principales, mitigantes y la ruta de salida", "start": "riesgos"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"},
+    "ibm-plex-mono": {"family": "IBM Plex Mono", "href": "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&display=swap"}
+  },
+  "designSystems": []
+}
