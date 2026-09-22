@@ -1,8 +1,8 @@
 # Las 3 slides finales
 
-El código fuente está en [`deck-source/`](./deck-source/) — `deck.json` más un
-archivo HTML por slide, en el formato propio del editor usado para construirlas. La
-versión enviada por correo es el PowerPoint descargado desde ese mismo editor.
+El entregable está en este mismo directorio: [`Reto-Linzor-Satrack.pptx`](./Reto-Linzor-Satrack.pptx)
+(el archivo enviado por correo a Linzor) y [`Reto-Linzor-Satrack.pdf`](./Reto-Linzor-Satrack.pdf)
+como respaldo de lectura rápida sin necesidad de abrir PowerPoint.
 
 ## Estructura
 
